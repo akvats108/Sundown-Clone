@@ -1,4 +1,4 @@
-@font-face {
+ @font-face {
     font-family: neu;
     src: url(./NeueHaasDisplayMediu.ttf);
 }
@@ -811,7 +811,9 @@ font-weight: 100;
    
 }
 
-
+.page5{
+     display: none;
+}
 
 
 
@@ -863,4 +865,8 @@ font-weight: 100;
     .loader h1{
         font-size: 8vw;
     }
+    .page5{
+        display: block;
+   }
+   
  }
